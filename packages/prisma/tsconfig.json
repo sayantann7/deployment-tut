@@ -12,8 +12,8 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "strict": true,
-    "module": "ESNext",
-    "target": "ESNext",
-    "moduleResolution": "node"
+    "module": "NodeNext",               // ✅ changed from ESNext
+    "moduleResolution": "NodeNext",     // ✅ changed from node
+    "target": "ESNext"
   }
 }
